@@ -1,0 +1,5 @@
+uname -a: Muestra información del sistema operativo y del kernel.
+
+whoami: Muestra el nombre del usuario actual.
+
+Es útil conocer la información del sistema para administrar un servidor, identificar el sistema operativo, verificar el usuario con el que se trabaja y facilitar la solución de problemas.
